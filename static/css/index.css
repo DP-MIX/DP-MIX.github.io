@@ -133,5 +133,14 @@ body {
   font-size: smaller;
 }
 
+.center-horizontal {
+    text-align: center;
+}
+
+/* Optional: For responsive images */
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 
